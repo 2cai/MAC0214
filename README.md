@@ -1,6 +1,6 @@
 # MAC0214
 
-##Primeiro contest realizado: ArabellaCPC 2019 (25/08/2021, 5 horas de duração)
+## Primeiro contest realizado: ArabellaCPC 2019 (25/08/2021, 5 horas de duração)
 O contest possui a maior parte dos seus problemas com o foco no raciocínio matemático (70%) e poucas questões envolvendo conteúdo de fato, dentre esses como programação dinâmica e grafos. Mesmo assim, conseguimos passar apenas 5 questões das 12 (A,B,C,H,M) o que indica que ainda precisamos melhorar bastante no raciocínio matemático, que foi do contest.
 (Link do contest) https://codeforces.com/gym/102263
 
