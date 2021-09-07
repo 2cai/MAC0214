@@ -5,5 +5,5 @@ O contest possui a maior parte dos seus problemas com o foco no raciocínio mate
 (Link do contest) https://codeforces.com/gym/102263
 
 ***Upsolving:***
- Primeiro encontro de upsolving (04/09/2021,5 horas de duração): Nessa etapa, conseguimos contemplar principalmente as questões D,G,J,L,I. As questões F,K e E foram apenas olhadas a resolução por cima, principalmente por sabermos muito pouco do conteúdo delas. Um fato a se observar é que quase passamoa as questões D e G no contest, porém isso não ocorreu devido a erros muito pontuais no código.
+ Primeiro encontro de upsolving (04/09/2021,5 horas de duração): Nessa etapa, conseguimos contemplar principalmente as questões D,G,J,L,I. As questões F,K e E foram apenas olhadas a resolução por cima, principalmente por sabermos muito pouco do conteúdo delas. Um fato a se observar é que quase passamoa as questões D e G no contest, porém isso não ocorreu devido a erros muito pontuais no código. ( Link para a pasta de resoluções: https://github.com/2cai/MAC0214/tree/main/ArabellaCPC%202019)
 
