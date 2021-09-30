@@ -22,7 +22,7 @@ Link do contest: https://codeforces.com/contest/1560
 
 Questões passadas: [A](https://codeforces.com/contest/1560/submission/128935517)
 
-#### Upsolving Codeforces Round #739 (Div. 3) (17/09/2021, 2 horas) TOTAL ATUAL: 24 HORAS
+## Upsolving Codeforces Round #739 (Div. 3) (17/09/2021, 2 horas) TOTAL ATUAL: 24 HORAS
 
 ##  Codeforces Round #744 (Div. 3) (28/09/2021,2 horas) TOTAL ATUAL: 26 HORAS
 
@@ -30,6 +30,6 @@ Link do contest: https://codeforces.com/contest/1579
 
 Questões passadas: [A](https://codeforces.com/contest/1579/submission/130110615), [E](https://codeforces.com/contest/1579/submission/130183510)
 
-#### Upsolving Codeforces Round #744 (Div. 3) (29/09/2021, 2 horas) TOTAL ATUAL: 28 HORAS
+## Upsolving Codeforces Round #744 (Div. 3) (29/09/2021, 2 horas) TOTAL ATUAL: 28 HORAS
 
 
