@@ -2,7 +2,7 @@
 
 ## Primeiro contest realizado: ArabellaCPC 2019 (25/08/2021, 5 horas de duração e upsolving feito 04/09/2021)
 Questões feitas: 
-(A)[https://codeforces.com/gym/102263/submission/127001857]
+[A]([https://codeforces.com/gym/102263/submission/127001857])
 
 (B) https://codeforces.com/gym/102263/submission/127001857 
 
