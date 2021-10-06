@@ -33,3 +33,22 @@ Questões passadas: [A](https://codeforces.com/contest/1579/submission/130110615
 ## Upsolving Codeforces Round #744 (Div. 3) (29/09/2021, 2 horas) TOTAL ATUAL: 28 HORAS
 
 
+##  Codeforces Round #731 (Div. 3) (01/10/2021,2 horas) TOTAL ATUAL: 30 HORAS
+
+Link do contest: https://codeforces.com/contest/1472
+
+Questões passadas: Nenhuma :(  Mas errei a B por besteira, consegui passar ela dps https://codeforces.com/contest/1547/submission/130514810
+
+## Upsolving Codeforces Round #731 (Div. 3) (02/10/2021, 2 horas) TOTAL ATUAL: 32 HORAS
+
+##  Codeforces Round #693 (Div. 3) (04/10/2021,2 horas) TOTAL ATUAL: 34 HORAS
+
+Link do contest: https://codeforces.com/contest/1472
+
+Questões passadas: [A](https://codeforces.com/contest/1472/submission/130842003),[B](https://codeforces.com/contest/1472/submission/130842740)
+
+## Upsolving Codeforces Round #693 (Div. 3) (06/10/2021, 2 horas) TOTAL ATUAL: 36 HORAS
+
+
+
+
