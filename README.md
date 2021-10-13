@@ -4,7 +4,7 @@
 
 Link do contest: https://codeforces.com/gym/1022632
 
-Questões passadas: [A](https://codeforces.com/gym/102263/submission/127001857), [B](https://codeforces.com/gym/102263/submission/127002397), [C](https://codeforces.com/gym/102263/submission/127001857), [H](https://codeforces.com/gym/102263/submission/127410614), [M](https://codeforces.com/gym/102263/submission/127005951)
+Questões passadas: [A](https://codeforces.com/gym/102263/submission/127001857), [B](https://codeforces.com/gym/102263/submission/127002397), [C](https://codeforces.com/gym/102263/submission/127002397), [H](https://codeforces.com/gym/102263/submission/127410614), [M](https://codeforces.com/gym/102263/submission/127005951)
 
 ## Upsolving  ArabellaCPC 2019 (04/08/2021, 5 horas) TOTAL ATUAL: 10 HORAS
 
