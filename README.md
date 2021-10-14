@@ -35,7 +35,7 @@ Questões passadas: [A](https://codeforces.com/contest/1579/submission/130110615
 
 ##  Codeforces Round #731 (Div. 3) (01/10/2021,2 horas) TOTAL ATUAL: 30 HORAS
 
-Link do contest: https://codeforces.com/contest/1472
+Link do contest: https://codeforces.com/contest/1547
 
 Questões passadas: Nenhuma :(  Mas errei a B por besteira, consegui passar ela dps https://codeforces.com/contest/1547/submission/130514810
 
