@@ -49,6 +49,19 @@ Questões passadas: [A](https://codeforces.com/contest/1472/submission/130842003
 
 ## Upsolving Codeforces Round #693 (Div. 3) (06/10/2021, 2 horas) TOTAL ATUAL: 36 HORAS
 
+## Codeforces Round #748 (Div. 3) (07/10/2021, 2 horas) TOTAL ATUAL: 38 HORAS
+
+Link do contest: https://codeforces.com/contest/1593
+
+Questões passadas: [A](https://codeforces.com/contest/1593/submission/131822039)
+
+## 2019-2020 ACM-ICPC Brazil Subregional Programming Contest (11/10/2021, 5 horas) TOTAL ATUAL: 43 HORAS
+
+Link do contest: https://codeforces.com/gym/102346
+
+Questões passadas: [B](https://codeforces.com/gym/102346/submission/131581278),[H](https://codeforces.com/gym/102346/submission/131588091), [L](https://codeforces.com/gym/102346/submission/131594001), [M](https://codeforces.com/gym/102346/submission/131584416)
+
+
 
 
 
