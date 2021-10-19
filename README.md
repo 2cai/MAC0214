@@ -61,6 +61,8 @@ Link do contest: https://codeforces.com/gym/102346
 
 Questões passadas: [B](https://codeforces.com/gym/102346/submission/131581278),[H](https://codeforces.com/gym/102346/submission/131588091), [L](https://codeforces.com/gym/102346/submission/131594001), [M](https://codeforces.com/gym/102346/submission/131584416)
 
+## Upsolving Codeforces Round #748 (Div. 3) (18/10/2021, 2 horas) TOTAL ATUAL: 45 HORAS
+
 
 
 
