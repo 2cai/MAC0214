@@ -70,6 +70,8 @@ Link do contest: https://codeforces.com/group/5jHvDMn9r4/contest/349244
 Questões passadas: [A](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132725039),[B](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132728644),[C](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132736628),
 [P](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/P)
 
+## 2020-2021 ACM-ICPC Pacific Northwest Regional Contest (26/10/2021, 5 horas) TOTAL ATUAL: 55 HORAS
+
 
 
 
