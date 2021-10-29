@@ -72,6 +72,12 @@ Questões passadas: [A](https://codeforces.com/group/5jHvDMn9r4/contest/349244/s
 
 ## 2020-2021 ACM-ICPC Pacific Northwest Regional Contest (26/10/2021, 5 horas) TOTAL ATUAL: 55 HORAS
 
+##  Codeforces Round #719 (Div. 3) (29/10/2021,2 horas) TOTAL ATUAL: 57 HORAS
+
+Link do contest: https://codeforces.com/contest/1520
+
+Questões passadas: [A](https://codeforces.com/contest/1520/submission/133405534)
+
 
 
 
