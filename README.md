@@ -81,6 +81,9 @@ Questões passadas: [A](https://codeforces.com/contest/1520/submission/133405534
 ## Upsolving Codeforces Round #719 (Div. 3) (29/10/2021, 2 horas) TOTAL ATUAL: 59 HORAS
 
 
+## Codeforces Round #713 (Div. 3) (29/10/2021,2 horas) TOTAL ATUAL: 61 HORAS
+
+
 
 
 
