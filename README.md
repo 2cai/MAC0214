@@ -85,7 +85,7 @@ Questões passadas: [A](https://codeforces.com/contest/1520/submission/133405534
 
 ## Fase subregional da maratona (31/10/2021, 5 horas) TOTAL ATUAL: 66 HORAS
 
-Questões passadas: C,E,H,M
+Questões passadas: C,E,H,M,K
 
 
 
