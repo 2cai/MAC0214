@@ -89,10 +89,16 @@ Questões passadas: C,E,H,M,K
 
 ## Codeforces Global Round 17 (23/11/2021, 3 horas) TOTAL ATUAL: 69 HORAS
 
-Link od contest: https://codeforces.com/contest/1610
+Link do contest: https://codeforces.com/contest/1610
 
 Questões passadas: [A](https://codeforces.com/contest/1610)
 
+
+## Codeforces Round #756 (Div. 3) (26/11/2021, 2 horas) TOTAL ATUAL: 71 HORAS
+
+Link do contest:
+
+Questões passadas: A,B,C
 
 
 
