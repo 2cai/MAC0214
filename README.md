@@ -98,7 +98,7 @@ Questões passadas: [A](https://codeforces.com/contest/1610)
 
 Link do contest:
 
-Questões passadas: A[https://codeforces.com/contest/1611/submission/136862691],B[https://codeforces.com/contest/1611/submission/136900834],C[https://codeforces.com/contest/1611/submission/136918461]
+Questões passadas: [A](https://codeforces.com/contest/1611/submission/136862691),[B](https://codeforces.com/contest/1611/submission/136900834),[C](https://codeforces.com/contest/1611/submission/136918461)
 
 ## Upsolving Codeforces Round #756 (Div. 3) (02/12/2021, 2 horas) TOTAL ATUAL: 73 HORAS
 
