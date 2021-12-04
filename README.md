@@ -105,6 +105,8 @@ Questões passadas: [A](https://codeforces.com/contest/1611/submission/136862691
  
 ## Upsolving Fase subregional da maratona (03/12/2021, 4 horas) TOTAL ATUAL: 77 HORAS
 
+## Upsolving Codeforces Global Round 17 (04/12/2021, 3 horas) TOTAL ATUAL: 80 HORAS
+
 
 
 
