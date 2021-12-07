@@ -107,6 +107,8 @@ Questões passadas: [A](https://codeforces.com/contest/1611/submission/136862691
 
 ## Upsolving Codeforces Global Round 17 (04/12/2021, 3 horas) TOTAL ATUAL: 80 HORAS
 
+## Upsolving Codeforces Round #713 (Div. 3) (07/12/2021,2 horas) TOTAL ATUAL: 82 HORAS
+
 
 
 
