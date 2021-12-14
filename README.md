@@ -109,6 +109,8 @@ Questões passadas: [A](https://codeforces.com/contest/1611/submission/136862691
 
 ## Upsolving Codeforces Round #713 (Div. 3) (07/12/2021,2 horas) TOTAL ATUAL: 82 HORAS
 
+## 2018-2019 ACM-ICPC Brazil Subregional Programming Contest (12/12/2021,5 horas) TOTAL ATUAL:87 HORAS
+
 
 
 
