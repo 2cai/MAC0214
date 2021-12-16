@@ -82,6 +82,7 @@ Questões passadas: [A](https://codeforces.com/contest/1520/submission/133405534
 
 
 ## Codeforces Round #713 (Div. 3) (29/10/2021,2 horas) TOTAL ATUAL: 61 HORAS
+Questões passadas: [A](https://codeforces.com/contest/1512/submission/133552486),[B](https://codeforces.com/contest/1512/submission/133554061)
 
 ## Fase subregional da maratona (31/10/2021, 5 horas) TOTAL ATUAL: 66 HORAS
 
