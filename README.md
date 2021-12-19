@@ -112,6 +112,7 @@ Questões passadas: [A](https://codeforces.com/contest/1611/submission/136862691
 
 ## 2018-2019 ACM-ICPC Brazil Subregional Programming Contest (12/12/2021,5 horas) TOTAL ATUAL:87 HORAS
 Questões passadas:[I](https://codeforces.com/gym/101908/submission/138935478),[E](https://codeforces.com/gym/101908/submission/138931350),[D](https://codeforces.com/gym/101908/submission/138930630)
+
 ## Codeforces Round #760 (Div. 3) (14/12/2021,2 horas) TOTAL ATUAL: 89 HORAS
 Questões passadas: [A](https://codeforces.com/contest/1618/submission/139255038)
 
