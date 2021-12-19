@@ -115,6 +115,8 @@ Questões passadas:[I](https://codeforces.com/gym/101908/submission/138935478),[
 ## Codeforces Round #760 (Div. 3) (14/12/2021,2 horas) TOTAL ATUAL: 89 HORAS
 Questões passadas: [A](https://codeforces.com/contest/1618/submission/139255038)
 
+## Upsolving Codeforces Round #760 (Div. 3) (18/12/2021,2 horas) TOTAL ATUAL: 91 HORAS
+
 
 
 
