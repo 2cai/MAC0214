@@ -1,4 +1,4 @@
-# MAC0214 (Gabriel Caiaffa/ Número USP: 11838669
+# MAC0214 (Gabriel Caiaffa/ Número USP: 11838669)
 
 ## Contest ArabellaCPC 2019 (25/08/2021, 5 horas) TOTAL ATUAL: 5 HORAS
 
