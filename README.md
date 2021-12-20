@@ -1,4 +1,4 @@
-# MAC0214
+# MAC0214 (Gabriel Caiaffa/ Número USP: 11838669
 
 ## Contest ArabellaCPC 2019 (25/08/2021, 5 horas) TOTAL ATUAL: 5 HORAS
 
@@ -121,6 +121,12 @@ Questões passadas: [A](https://codeforces.com/contest/1618/submission/139255038
 ## Upsolving 2018-2019 ACM-ICPC Brazil Subregional Programming Contest (19/12/2021,4 horas) TOTAL ATUAL:95 HORAS
 
 ## Copa Matão (19/12/2021, 5 HORAS) TOTAL ATUAL: 100 HORAS
+
+# Resultados obtidos no projeto 
+
+O principal resultado obtido no projeto foi o aprimoramento nos conhecimentos de tópicos de extrema importância na maratona de programação como estrutura de dados básicas e os principais algoritmos como aritimética modular aplicada a computação, programação dinâmica e lógica de resolução de problemas no geral. Com esse aprimoramento, foi possível obter a colocação 61 na subregional na maratona de programação, resultado bom para a primeira participação e também o primeiro lugar na categoria de bixos na Copa Matão.
+
+
 
 
 
